@@ -5,6 +5,7 @@ import React from 'react';
 import Component01 from './components/Component01';
 import Component02 from './components/Component02';
 import Component03 from './components/Component03';
+import Componentxx from './components/Componentxx';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <div class="caja1" ><Component01 /></div>
         <div class="caja2"><Component02 /></div>
         <div class="caja3"><Component03 /></div>
+        <div class="caja3"><Componentxx /></div>
         
       </body>  
       <div>Hola Mundo Desarrollo Web</div>

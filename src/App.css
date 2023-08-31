@@ -2,6 +2,24 @@
   text-align: center;
 }
 
+.caja1 {
+  background-color: rgb(85, 85, 8);
+  width: 300px;
+  float:left;
+}
+.caja2 {
+  background-color: green;
+  width: 300px;
+  float:left;
+}
+.caja3 {
+  background-color: rgb(87, 17, 17);
+  width: 600px;
+  height: 100px;
+  clear:both;
+  
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

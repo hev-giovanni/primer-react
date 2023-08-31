@@ -4,7 +4,7 @@ export default class component_test extends React.Component{
 
         return(
             <div>
-                <p>Desarrollo WEB COMPONENTE_Prueba</p>
+                <p>Prueba Git-Hub</p>
             </div>
         );
     }

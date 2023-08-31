@@ -19,13 +19,6 @@
   clear:both;
   
 }
-.cajaxx {
-  background-color: rgb(32, 5, 5);
-  width: 600px;
-  height: 100px;
-  float:left;
-  
-}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

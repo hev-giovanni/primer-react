@@ -6,6 +6,8 @@ export default class Component01 extends React.Component{
             <div>
                 <p>Desarrollo WEB COMPONENTE1</p>
             </div>
+
+            
         );
     }
 
